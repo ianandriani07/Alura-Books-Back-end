@@ -14,4 +14,4 @@ router.patch('/:id', patchLivro);
 
 router.delete('/:id', deleteLivro);
 
-module.exports = router
+module.exports = router;
